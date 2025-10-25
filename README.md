@@ -1,4 +1,4 @@
-✅ **<b>#Playwright-Cucumber<b>**
+✅ **<b>Playwright-Cucumber<b>**
 - Simple Playwright JS/TS with Page Object Model
 - Simple Cucumber Playwright Script
 ------------------
@@ -25,7 +25,7 @@
 📦 features/stepdefinitions - Actual logic in cucumber gherkin format (JS/TS)
 
 📦 features/support - Hooks file
-3
+
 📦 features - Cucumber feature file
 
 📦 pageObjects - POM in JS/TS
