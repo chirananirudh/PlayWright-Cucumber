@@ -1,4 +1,4 @@
-**#Playwright-Cucumber**
+**<b>#Playwright-Cucumber<b>**
 - Simple Playwright JS/TS with Page Object Model
 - Simple Cucumber Playwright Script
 ------------------
@@ -17,19 +17,20 @@
 - Used Git \& GitHub for version control
 ------------------
 📂 **Project Structure** 
-📦 allure-report -> Allure Report in html Format
-📦 allure-results -> Allure Result with properties files
-📦 features/stepdefinitions -> Actual logic in cucumber gherkin format (JS/TS)
-📦 features/support -> Hooks file
-📦 features -> Cucumber feature file
-📦 pageObjects → POM in JS/TS
-📦 playwright-report -> Default Playwright report
-📦 reports -> Default Cucumber Playwright report
-📦 screenshot -> Failure Screenshot folder
-📦 test-results -> Trace file folder
-📦 utils -> Common logic folder
-⭐️ playwright.config.js ->  Runner file
-⭐️ playwright.config1.js ->  Custom Runner file
+
+📦 allure-report - Allure Report in html Format
+📦 allure-results - Allure Result with properties files
+📦 features/stepdefinitions - Actual logic in cucumber gherkin format (JS/TS)
+📦 features/support - Hooks file
+📦 features - Cucumber feature file
+📦 pageObjects - POM in JS/TS
+📦 playwright-report - Default Playwright report
+📦 reports - Default Cucumber Playwright report
+📦 screenshot - Failure Screenshot folder
+📦 test-results - Trace file folder
+📦 utils - Common logic folder
+⭐️ playwright.config.js - Runner file
+⭐️ playwright.config1.js - Custom Runner file
 ------------------
 ⭐️ **How to Run the Project**
 - Clone the Repository 
