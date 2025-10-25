@@ -41,6 +41,7 @@
 📦 utils - Common logic folder
 
 ⭐️ playwright.config.js & playwright.config1.js - Runner file
+
 ------------------
 ⭐️ **How to Run the Project**
 - Clone the Repository 
